@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
-        <file>main.qml</file>
+        <file alias="main">Qml/main.qml</file>
+        <file>Qml/Piece.qml</file>
+        <file>Qml/Shogiban.qml</file>
     </qresource>
 </RCC>

@@ -71,3 +71,7 @@ Thumbs.db
 *.dll
 *.exe
 
+
+Giban\.qbs\.user
+
+qml/main\.qmlc\.IoQgaS
